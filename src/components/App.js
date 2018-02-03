@@ -13,7 +13,9 @@ class App extends React.Component {
     };
   }
 
-  // TODO: componentWillMount()
+  componentWillMount = () =>{
+    
+  }
   // TODO: componentDidMount()
   // TODO: componentWillUnmount()
 
